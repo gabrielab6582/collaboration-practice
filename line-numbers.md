@@ -3,7 +3,7 @@
 #### 3 bye
 #### 4
 #### 5 shut up
-#### 6
+#### 6 no bro!
 #### 7 wow
 #### 8
 #### 9 GitHub is really awesome
