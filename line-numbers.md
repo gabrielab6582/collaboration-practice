@@ -8,7 +8,7 @@
 #### 8
 #### 9 GitHub is really awesome
 #### 10
-#### 11 fix me.
+#### 11 fix me. please
 #### 12
 #### 13 Basketball is still the best sport.
 #### 14
